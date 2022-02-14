@@ -1,0 +1,24 @@
+{
+  "name": "tutorialvnc",
+  "version": "1.0.0",
+  "description": "Tutorial VNC",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve --port 2345"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/maulalwi/tutorialvnc.git"
+  },
+  "author": "maulalwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/maulalwi/tutorialvnc/issues"
+  },
+  "homepage": "https://gitlab.com/maulalwi/tutorialvnc#readme",
+  "dependencies": {
+    "graceful-fs": "^4.2.9",
+    "honkit": "^3.7.1"
+  }
+}
