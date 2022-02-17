@@ -54,11 +54,15 @@ _*Untuk potongan harga hanya untuk pembayaran QRIS dan order 3 VNC / lebih. (@ma
 - QRIS M-Banking (BCA, BNI, BRI, Permata, Jago, dll) 
 - Pulsa (Telkomsel)
 
-
-**Order PM :**
+**Contact Admin:**
 
 [wa.me/6282228882786](https://wa.me/6282228882786)
+<br />
 [fb.me/MMMAlwi](https://fb.me/MMMAlwi) 
+<br />
+[wa.me/6285733898936](http://wa.me/6285733898936)
+<br />
+[fb.me/arka.brosis](https://fb.me/arka.brosis) 
 
 
 **Thanks & Happy Hunt 😄**

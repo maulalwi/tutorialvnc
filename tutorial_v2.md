@@ -116,8 +116,15 @@ Setidaknya ane usahain menyediakan server buat AFK 24 JAM dengan stabil.
 
 Masih ada kendala/nemu bug/error/pertanyaan/request fitur baru dll. Silakan pm admin. 
 
-[wa.me/6282228882786](https://wa.me/6282228882786)<br />
+**Contact Admin:**
+
+[wa.me/6282228882786](https://wa.me/6282228882786)
+<br />
 [fb.me/MMMAlwi](https://fb.me/MMMAlwi) 
+<br />
+[wa.me/6285733898936](http://wa.me/6285733898936)
+<br />
+[fb.me/arka.brosis](https://fb.me/arka.brosis) 
 
 Thanks and Happy hunt ^_^
 

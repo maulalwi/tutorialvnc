@@ -119,10 +119,15 @@ Penjelasan :
 **Tidak ada kaitannya dengan server game, password char, nick, dll.**
 
 <br />
-**Contact Admin :**
+**Contact Admin:**
 
-[wa.me/6282228882786](https://wa.me/6282228882786)<br />
+[wa.me/6282228882786](https://wa.me/6282228882786)
+<br />
 [fb.me/MMMAlwi](https://fb.me/MMMAlwi) 
+<br />
+[wa.me/6285733898936](http://wa.me/6285733898936)
+<br />
+[fb.me/arka.brosis](https://fb.me/arka.brosis) 
 
 ## Selanjutnya
 
