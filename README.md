@@ -27,8 +27,6 @@ Untuk mengatasi hal diatas Agan bisa menggunakan jasa sewa webVNC ini. Hal-hal y
 - Up Item
 - Kill/Serang aja
 - Revive ke PK/Gosong 
-- Relog kalo DC **(*Fitur percobaan)**
-- Relog pas MT **(*Fitur percobaan)**
 
 **Fitur lainnya :**
 - Ubah Password VNC
@@ -36,29 +34,26 @@ Untuk mengatasi hal diatas Agan bisa menggunakan jasa sewa webVNC ini. Hal-hal y
 
 **Untuk harga webVNC :**
 
-- **1 Akun >> QRIS 10K**
-- **1 Akun >> Pulsa 15K**
-
 - **1 Akun + Auto >> QRIS 15K**
 - **1 Akun + Auto >> Pulsa 20K**
 
-- **2 Akun (Biasa) >> QRIS 15K**
-- **2 Akun (Biasa) >> Pulsa 20K**
-
 _*Aktif sebulan dan bergaransi_
 _*Bisa order lebih dari satu VNC, dan request durasi lebih dari sebulan._
-_*Untuk potongan harga hanya untuk pembayaran QRIS dan order 3 VNC / lebih. (@max 2k)_
 
 **Pembayaran :**
 - QRIS E-Wallet (OVO, Dana, Gopay, ShoppePay, dll)
 - QRIS M-Banking (BCA, BNI, BRI, Permata, Jago, dll) 
-- Pulsa (Telkomsel)
+- Pulsa (Telkomsel, Indosat)
 
 **Contact Admin:**
 
+**Alwi**
+<br />
 [wa.me/6282228882786](https://wa.me/6282228882786)
 <br />
 [fb.me/MMMAlwi](https://fb.me/MMMAlwi) 
+<br />
+**Aris**
 <br />
 [wa.me/6285733898936](http://wa.me/6285733898936)
 <br />
@@ -69,5 +64,5 @@ _*Untuk potongan harga hanya untuk pembayaran QRIS dan order 3 VNC / lebih. (@ma
 
 `Created: 2022-01-30`
 <br />
-`Updated: 2022-02-14`
+`Updated: 2022-04-08`
 

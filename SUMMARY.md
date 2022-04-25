@@ -18,5 +18,6 @@
 
 * [Syarat dan Ketentuan](syarat_ketentuan.md)
 * [Kebijakan Privasi](privasi.md)
+* [404 Not Found](404.md)
 
 
