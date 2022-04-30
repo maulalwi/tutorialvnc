@@ -11,7 +11,7 @@
     * [Login VNC Server](indo_tutorial_vnc.md)
     * [Penggunaan VNC GUI](indo_tutorial_gui.md)
     * [Tanya Jawab T&J](indo_tanya_jawab.md)
-    * [Syarat dan Ketentuan](syarat_dan_ketentuan.md)
+    * [Syarat dan Ketentuan](indo_syarat_dan_ketentuan.md)
 
 --
 
@@ -20,7 +20,7 @@
   * [Login VNC Server](english_tutorial_vnc.md)
   * [Use VNC GUI](english_tutorial_gui.md)
   * [Question and Answer Q&A](english_qa.md)
-  * [Terms and Conditions](terms_and_conditions.md)
+  * [Terms and Conditions](english_terms_and_conditions.md)
 
 --
 

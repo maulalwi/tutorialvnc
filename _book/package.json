@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "honkit build",
+    "live": "honkit serve --watch true",
     "serve": "honkit serve --port 2345"
   },
   "repository": {
