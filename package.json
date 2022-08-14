@@ -5,19 +5,19 @@
   "main": "index.js",
   "scripts": {
     "build": "honkit build",
-    "live": "honkit serve --watch true",
+    "live": "honkit serve --port 2345 --watch true",
     "serve": "honkit serve --port 2345"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/maulalwi/tutorialvnc.git"
+    "url": "git+https://github.com/maulalwi/tutorialvnc.git"
   },
   "author": "maulalwi",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/maulalwi/tutorialvnc/issues"
+    "url": "https://github.com/maulalwi/tutorialvnc/issues"
   },
-  "homepage": "https://gitlab.com/maulalwi/tutorialvnc#readme",
+  "homepage": "https://github.com/maulalwi/tutorialvnc#readme",
   "dependencies": {
     "graceful-fs": "^4.2.9",
     "honkit": "^3.7.1"
