@@ -1,15 +1,15 @@
 
-# webVNC
+# beliVNC
 
-**#SELL webVNC Server AFK 24 jam (Data mati tetep AFK)** 
+**VNC Server AFK 24 jam (Data mati tetep AFK)** 
 
-**Support game KOI Ksatria Online (Server Naga & Garuda) dan TPW**
+**Support game KOI Ksatria Online (Server Naga & Garuda) dan TPW (The Pirate War)**
 
 Biasanya main game di HP pasti bikin panas HP, belum harus HP aktif terus dan koneksi internet harus stabil juga biar gk gampang DC dan banyak faktor lainnya yg bikin AFK jadi ribet kalo pake cara lama. 
 
-Untuk mengatasi hal diatas Agan bisa menggunakan jasa sewa webVNC ini. Hal-hal yang tadinya bikin ribet saat AFK pake HP, bisa diatasi pake webVNC ini. Bahkan ada kelebihan lainnya juga. 
+Untuk mengatasi hal diatas Agan bisa menggunakan jasa sewa VNC ini. Hal-hal yang tadinya bikin ribet saat AFK pake HP, bisa diatasi pake VNC ini. Bahkan ada kelebihan lainnya juga. 
 
-**Kelebihan webVNC :**
+**Kelebihan beliVNC :**
 - Bisa AFK tanpa koneksi internet **(Login ke VNC Server tetap menggunakan Internet)**. 
 - Diajarin sampe bisa. 
 - Jarang DC. 
@@ -24,9 +24,9 @@ Untuk mengatasi hal diatas Agan bisa menggunakan jasa sewa webVNC ini. Hal-hal y
 - Dll. 
 
 **Fitur Auto :**
+- Revive PK/Gosong dan Kill
+- Kill/Serang aja skill 7
 - Up Item
-- Kill/Serang aja
-- Revive ke PK/Gosong 
 
 **Fitur lainnya :**
 - Ubah Password VNC
