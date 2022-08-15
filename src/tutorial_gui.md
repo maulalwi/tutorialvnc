@@ -1,18 +1,29 @@
 
-# Tutorial webVNC v2.x
+# Tutorial VNC-GUI v4
 
-Setelah order akan diberikan **Data webVNC**
 
-Setelah login vnc, klik **Run webVNC**, akan muncul tab awal :
+Setelah berhasil login ke VNC Server sesuai **Data VNC**, silakan ikuti tutorial dibawah ini :
 
-- **Tab Info** = Info VNC. 
-- **Tab Emulator ** = Menu buat jalankan emulator java. 
-- **Tab Password** = Menu Buat ubah Password VNC Login. 
-- **Tab Update** = Menu buat updates webVNC, kalo ada update, perbaikan script, dll. 
-- **Tab Thanks** = Ucapan terima kasih. 
-
+![VNC-GUI gui](./gui/gui.png) 
+![VNC-GUI start](./gui/start.png) 
+![VNC-GUI start-run](./gui/start-run.png) 
+![VNC-GUI start-reset](./gui/start-reset.png) 
+![VNC-GUI start-pw](./gui/start-pw.png) 
+![VNC-GUI start-pw-ss](./gui/start-pw-ss.png) 
+![VNC-GUI game-loading](./gui/game-loading.png) 
+![VNC-GUI game](./gui/game.png) 
+![VNC-GUI game-text](./gui/game-text.png) 
+![VNC-GUI game-fitur](./gui/game-fitur.png) 
+![VNC-GUI game-running](./gui/game-running.png) 
 
 **Penjelasan :**
+
+1. **Run VNC-GUI** = Untuk menjalankan VNC-GUI. 
+2. **Fix VNC** = Jika VNC Error, klik tombol tersebut. 
+
+Pada langkah awal silakan tekan **Run VNC-GUI**
+
+
 
 **Tab Emulator**
 
