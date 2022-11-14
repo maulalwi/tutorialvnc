@@ -1,13 +1,11 @@
 
-# beliVNC
+# beliVNC GUI v5
 
-**VNC Server AFK 24 jam (Data mati tetep AFK)** 
+**VNC Server AFK 24 jam** 
 
-**Support game KOI Ksatria Online (Server Naga & Garuda) dan TPW (The Pirate War)**
+**Support game KOI (Ksatria Online server Naga & Garuda), KAO (Knight Age Online) dan TPW (The Pirate War)**
 
-Biasanya main game di HP pasti bikin panas HP, belum harus HP aktif terus dan koneksi internet harus stabil juga biar gk gampang DC dan banyak faktor lainnya yg bikin AFK jadi ribet kalo pake cara lama. 
 
-Untuk mengatasi hal diatas Agan bisa menggunakan jasa sewa VNC ini. Hal-hal yang tadinya bikin ribet saat AFK pake HP, bisa diatasi pake VNC ini. Bahkan ada kelebihan lainnya juga. 
 
 **Kelebihan beliVNC :**
 - Bisa AFK tanpa koneksi internet **(Login ke VNC Server tetap menggunakan Internet)**. 
