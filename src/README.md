@@ -5,14 +5,12 @@
 
 **Support game KOI (Ksatria Online server Naga & Garuda), KAO (Knight Age Online) dan TPW (The Pirate War)**
 
-
-
-**Kelebihan beliVNC :**
+**Kelebihan VNC GUI v5:**
 - Bisa AFK tanpa koneksi internet **(Login ke VNC Server tetap menggunakan Internet)**. 
 - Diajarin sampe bisa. 
 - Jarang DC. 
 - Keamanan terjamin. 
-- Garansi server aktif 24 jam. 
+- Garansi server aktif 24 jam non Sro. 
 - Tampilan simple dan mudah, cuma pilih fitur lalu start **(Tanpa setting dan konfigurasi ribet)**. 
 - Fitur-fitur bermanfaat **(khususnya fitur auto revive setelah ke PK/Gosong)**. 
 - Bisa di perpanjang. 
