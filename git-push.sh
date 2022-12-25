@@ -5,7 +5,7 @@ echo Bismillah...
 now=`date +"%Y-%m-%d %T"`
 echo $now
 
-cd /home/prod/tutorialvnc/ 
+cd /home/work/tutorialvnc/ 
 
 git config --global credential.helper store
 git config --global user.email "maulanaalwi07@gmail.com"
