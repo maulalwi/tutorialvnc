@@ -20,6 +20,6 @@
   "homepage": "https://github.com/maulalwi/tutorialvnc#readme",
   "dependencies": {
     "graceful-fs": "^4.2.9",
-    "honkit": "^3.7.1"
+    "honkit": "^4.0.4"
   }
 }
