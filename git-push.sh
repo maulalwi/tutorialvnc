@@ -7,6 +7,7 @@ echo $now
 
 cd /home/work/tutorialvnc/ 
 
+git config --global --add safe.directory /home/work/tutorialvnc
 git config --global credential.helper store
 git config --global user.email "maulanaalwi07@gmail.com"
 git config --global user.name "maulalwi"
