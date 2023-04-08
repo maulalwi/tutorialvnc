@@ -2,10 +2,10 @@
 
 # Summary
 
-* [beliVNC.com](README.md)
+* [beliVNC](README.md)
 
-* [Login VNC Server](vnc.md)
-* [Tutorial VNC-GUI](gui.md)
+* [Tutorial Login VNC Viewer](vnc.md)
+* [Tutorial AFK VNC-GUI](gui.md)
 * [Tanya Jawab T&J](tanya_jawab.md)
 * [Syarat dan Ketentuan](syarat_dan_ketentuan.md)
 

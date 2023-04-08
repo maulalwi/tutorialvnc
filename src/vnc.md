@@ -1,20 +1,18 @@
 # Tutorial login ke VNC Server
 
-Setelah order dapat **Data webVBC**. Gunanya untuk login ke VNC Server. 
+Tutrial lebih detail nya bisa lihat di [tutorial login VNC di YT](https://www.youtube.com/watch?v=nKlbm69EbyY)
+Setelah order dapat **Data beliVNC**, untuk login ke VNC Server. 
 
 ```
-# Data webVNC
+# CONTOH
+# Data beliVNC
 
-VNC ID : ABC12
-WA : wa.me/62888
-Product : KOI 1 + Auto (@Rp15.000)
-Harga : Rp15.000 (1 Bln)
-Aktif : 16 Feb 2022 - 16 Mar 2022
-Server : SV
-Address : sv.belivnc.com:9999
-Password : ACAKAN12
+VNC ID : ABC
+Aktif : 8 April 2023 - 8 Mei 2023
+Address : sv.vnc.my.id:9999
+Password : PASS123
 
-# Data webVNC
+# Data beliVNC
 ```
 
 Semua nya penting, tetapi fokus di **Address** dan **Password**. 
@@ -23,7 +21,7 @@ Semua nya penting, tetapi fokus di **Address** dan **Password**.
 
 Download VNC Viewer di playstore/App store/Store windows. 
 
-![VNC Viewer](http://belivnc.com/vnc/vnc-playstore.png)
+![VNC Viewer](vnc/vnc-playstore.png)
 
 [Download di Playstore](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
 
@@ -31,7 +29,7 @@ Download VNC Viewer di playstore/App store/Store windows.
 
 Silakan buka Aplikasi VNC Viewer nya lalu klik + ada di kanan bawah. 
 
-![VNC plus](http://belivnc.com/vnc/plus.png)
+![VNC plus](vnc/plus.png)
 
 ## Masukan Address 
 
@@ -41,9 +39,9 @@ Untuk name bisa di kosongin / masukan VNC ID nya.
 
 Setelah itu klik **CREATE**
 
-![VNC plus](http://belivnc.com/vnc/address.png)
+![VNC plus](vnc/address.png)
 
-Kalau muncul notif **The Connection Close Unexpected**. Silakan cek ulang address sudah bener / belum. Udah bener tetapi masih sama silakan cek koneksi internet klik [speedtest.net]([VNC plus](http://belivnc.com/vnc/address.png)). 
+Kalau muncul notif **The Connection Close Unexpected**. Silakan cek ulang address sudah bener / belum. Udah bener tetapi masih sama silakan cek koneksi internet klik [speedtest.net]([VNC plus](vnc/address.png)). 
 
 Kalau muncul **Invalid Endpoint**. Silakan cek address dan hapus **http://** diawal nya. Lalu klik **CREATE**
 
@@ -57,7 +55,7 @@ Kalau muncul notif kayak di SS.
 
 Setelah itu klik ok. 
 
-![VNC unenc](http://belivnc.com/vnc/un-enc.png)
+![VNC unenc](vnc/un-enc.png)
 
 ## Masukan Password 
 
@@ -67,7 +65,7 @@ Aktifin **Remember Password**, biar setiap logib tidak masukin Password.
 
 Lalu klik **CONTINUE**
 
-![VNC pass](http://belivnc.com/vnc/pass.png)
+![VNC pass](vnc/pass.png)
 
 Kalau muncul notif **Authentication Failed**, berarti password salah. Silakan klik **OK** lalu di cek ulang password nya kemudian **CONTINUE** lagi
 
@@ -83,7 +81,7 @@ Silakan pilih **Skip**/lewati.
 
 ## Menu bar atas
 
-![VNC bar](http://belivnc.com/vnc/bar.png)
+![VNC bar](vnc/bar.png)
 
 Penjelasan :
 
@@ -98,11 +96,11 @@ Penjelasan :
 
 Klik icon *I* di pojok kanan VNC
 
-![VNC setting](http://belivnc.com/vnc/list.png)
+![VNC setting](vnc/list.png)
 
 Menu pengaturan 
 
-![VNC setting](http://belivnc.com/vnc/setting.png)
+![VNC setting](vnc/setting.png)
 
 Penjelasan :
 
