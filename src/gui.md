@@ -1,19 +1,10 @@
 # Tutorial VNC-GUI v4
 
+Tutorial lebih detail nya bisa lihat di [YouTube](https://www.youtube.com/watch?v=nKlbm69EbyY).
 
-Setelah berhasil login ke VNC Server sesuai **Data VNC**, silakan ikuti tutorial dibawah ini :
+Setelah berhasil login ke VNC Server sesuai **Data beliVNC**, silakan ikuti tutorial dibawah ini :
 
-![VNC-GUI gui](./gui/gui.png) 
-![VNC-GUI start](./gui/start.png) 
-![VNC-GUI start-run](./gui/start-run.png) 
-![VNC-GUI start-reset](./gui/start-reset.png) 
-![VNC-GUI start-pw](./gui/start-pw.png) 
-![VNC-GUI start-pw-ss](./gui/start-pw-ss.png) 
-![VNC-GUI game-loading](./gui/game-loading.png) 
-![VNC-GUI game](./gui/game.png) 
-![VNC-GUI game-text](./gui/game-text.png) 
-![VNC-GUI game-fitur](./gui/game-fitur.png) 
-![VNC-GUI game-running](./gui/game-running.png) 
+![VNC-GUI gui](gui/gui.png)
 
 **Penjelasan :**
 
@@ -22,7 +13,35 @@ Setelah berhasil login ke VNC Server sesuai **Data VNC**, silakan ikuti tutorial
 
 Pada langkah awal silakan tekan **Run VNC-GUI**
 
+![VNC-GUI start](gui/start.png) 
 
+**Penjelasan :**
+
+1. **Pilih Game** = Untuk memilih game yang akan di mainkan.
+2. **Start** = Untuk memulai Emulator.
+3. **Reset** = Untuk mereset Emulator (Jika error, ngebug, dll).
+4. **Ubah PW** = Untuk ubah PW VNC.
+
+Silakan pilih game lalu klik **Start**.
+
+![VNC-GUI start-run](gui/start-run.png)
+
+Dicek lagi, jika game yang dipilih sudah sesuai, klik **Start Emulator**.
+
+![VNC-GUI game-loading](gui/game-loading.png) 
+
+Silahkan tunggu sampai loading selesai, jika blank, emulator tidak tampil, posisi game tidak pas tengah(ada area hitam di atas dan kiri game). Silahkan klik **Stop Emu** lalu **Start Emu** lagi. Jika kendala masih sama terus, silahkan hubungi admin.
+
+![VNC-GUI game](gui/game.png) 
+![VNC-GUI game-text](gui/game-text.png) 
+![VNC-GUI game-fitur](gui/game-fitur.png) 
+![VNC-GUI game-running](gui/game-running.png) 
+
+
+
+<!-- ![VNC-GUI start-reset](gui/start-reset.png) 
+![VNC-GUI start-pw](gui/start-pw.png) 
+![VNC-GUI start-pw-ss](gui/start-pw-ss.png)  -->
 
 **Tab Emulator**
 

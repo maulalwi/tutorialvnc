@@ -1,6 +1,7 @@
 # Tutorial login ke VNC Server
 
-Tutrial lebih detail nya bisa lihat di [tutorial login VNC di YT](https://www.youtube.com/watch?v=nKlbm69EbyY)
+Tutorial lebih detail nya bisa lihat di [YouTube](https://www.youtube.com/watch?v=nKlbm69EbyY).
+
 Setelah order dapat **Data beliVNC**, untuk login ke VNC Server. 
 
 ```
@@ -15,7 +16,7 @@ Password : PASS123
 # Data beliVNC
 ```
 
-Semua nya penting, tetapi fokus di **Address** dan **Password**. 
+Fokus di **Address** dan **Password**. 
 
 ## Download VNC Viewer 
 
@@ -25,9 +26,13 @@ Download VNC Viewer di playstore/App store/Store windows.
 
 [Download di Playstore](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
 
+Untuk OS Android yang tidak bisa donwload di PlayStore, silahkan download versi lama di [VNC Viewer v3.6.1](https://apkpure.com/id/vnc-viewer-remote-desktop/com.realvnc.viewer.android/download/1042089-APK) atau bisa memili8h versi yang lainnya yg di support.
+
+Sedangkan pengguna OS lainnya silahkan download di AppStore bawaannya, silahkan hubungi admin untuk info lengkapnya.
+
 ## Buka Aplikasi VNC Viewer 
 
-Silakan buka Aplikasi VNC Viewer nya lalu klik + ada di kanan bawah. 
+Silakan buka Aplikasi VNC Viewer nya lalu klik + ada di pojok kanan bawah. 
 
 ![VNC plus](vnc/plus.png)
 
@@ -41,7 +46,7 @@ Setelah itu klik **CREATE**
 
 ![VNC plus](vnc/address.png)
 
-Kalau muncul notif **The Connection Close Unexpected**. Silakan cek ulang address sudah bener / belum. Udah bener tetapi masih sama silakan cek koneksi internet klik [speedtest.net]([VNC plus](vnc/address.png)). 
+Kalau muncul notif **The Connection Close Unexpected**. Silakan cek ulang address sudah bener / belum. Udah bener tetapi masih sama silakan cek koneksi internet klik [speedtest.net]([VNC plus](vnc/address.png). 
 
 Kalau muncul **Invalid Endpoint**. Silakan cek address dan hapus **http://** diawal nya. Lalu klik **CREATE**
 
@@ -53,13 +58,13 @@ Kalau muncul notif kayak di SS.
 
 **Warn me every time** Jangan diaktifin. 
 
-Setelah itu klik ok. 
+Setelah itu klik **OK**. 
 
 ![VNC unenc](vnc/un-enc.png)
 
 ## Masukan Password 
 
-Masukan **Password** sesuai **Data webVNC** yg di order. 
+Masukan **Password** sesuai **Data beliVNC** yg di order. 
 
 Aktifin **Remember Password**, biar setiap logib tidak masukin Password. 
 
@@ -108,30 +113,27 @@ Penjelasan :
 2. Picture quality, buat ubah kualitas tampilan. Default nya **Automatic**. Bisa ubah **Medium**. 
 3. View only / mode lihat saja, jangan di aktifin. Kalau diaktifkan kursor tidak muncul dan tidak bisa di klik-klik.
 4. Update desktop preview, aktifin saja. 
-5. Forget sensitive data, untuk menghapus Password. 
+5. Forget sensitive data, untuk menghapus Password VNC. 
 
 ## Penting 
 
-**VNC Viewer hanya untuk mengakses ke VNC Server webVNC.**
+**VNC Viewer hanya untuk mengakses ke VNC Server.**
 
 **Tidak ada kaitannya dengan server game, password char, nick, dll.**
 
-<br />
-**Contact Admin:**
+## Kontak Admin
 
+**MMMAlwi**
+<br />
 [wa.me/6282228882786](https://wa.me/6282228882786)
 <br />
-[fb.me/MMMAlwi](https://fb.me/MMMAlwi) 
-<br />
-[wa.me/6285733898936](http://wa.me/6285733898936)
-<br />
-[fb.me/arka.brosis](https://fb.me/arka.brosis) 
+[fb.me/beliVNC](https://fb.me/beliVNC) 
 
 ## Selanjutnya
 
-Silakan klik icon **>** dibawah ini untuk tutorial webVNC nya. 
+Silakan klik icon **>** dibawah ini untuk tutorial VNC selanjutnya nya. 
 
 <br />
 `Created: 2022-02-14`
 <br />
-`Updated: 2022-02-14`
+`Updated: 2023-04-08`

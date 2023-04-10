@@ -11,7 +11,7 @@ Jika Agan pernah pake **RDP**, sudah di pastikan bisa menggunakan **VNC** ini. T
 
 ## VNC sudah terbukti kehandalannya
 - Support game KOI (Ksatria Online server Naga & Garuda) dan KAO (Knight Age Online server Global).
-- Bisa AFK tanpa koneksi internet **(Login ke VNC Server tetap menggunakan Internet)**. 
+- Bisa AFK tanpa koneksi internet **(login ke VNC Server tetap menggunakan Internet)**. 
 - Garansi server aktif 24jam non-stop.
 - Tampilan simple dan mudah, cuma pilih fitur lalu start **(Tanpa setting dan konfigurasi ribet)**. 
 - Fitur-fitur menggunakan sistem terbaru.
@@ -29,7 +29,7 @@ Jika Agan pernah pake **RDP**, sudah di pastikan bisa menggunakan **VNC** ini. T
 
 ## Untuk harga VNC
 - 1 Akun >> QRIS ~~20K~~ **15K**
-- 1 Akun >> Pulsa ~~25~~ **20K**
+- 1 Akun >> Pulsa ~~25K~~ **20K**
 
 _*Aktif sebulan dan bergaransi full._ <br /> 
 _*Bisa order lebih dari satu VNC, dan request durasi lebih dari sebulan._
@@ -53,5 +53,5 @@ _*Bisa order lebih dari satu VNC, dan request durasi lebih dari sebulan._
 
 `Created: 2022-01-30`
 <br />
-`Updated: 2023-04-08`
+`Updated: 2023-04-10`
 
