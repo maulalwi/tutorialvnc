@@ -13,3 +13,5 @@
 
 * [404 Not Found](404.md)
 
+* [Server](server.md)
+
